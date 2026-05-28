@@ -1,6 +1,5 @@
 {
   "buildCommand": "cd anything/apps/web && npm install && npm run build",
   "outputDirectory": "anything/apps/web/dist",
-  "framework": "react-router",
-  "nodeVersion": "20.x"
+  "framework": "react-router"
 }
